@@ -32,3 +32,4 @@ Press `q` to exit the application.
 ## Notes
 
 Ensure your webcam is connected and working. This app opens the webcam to detect hand gestures.
+Virtual Gesture keypad
